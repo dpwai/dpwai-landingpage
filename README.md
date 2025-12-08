@@ -4,8 +4,8 @@ Página de apresentação da Deep Work AI - especializada em automação de proc
 
 ## 🚀 Acesso
 
-O site está hospedado no GitHub Pages e pode ser acessado em:
-- **URL**: `https://joaobalzer.github.io/deepwork-site/`
+O site está publicado em:
+- **URL**: `https://dpwai.com.br`
 
 ## 📋 Características
 
@@ -33,11 +33,6 @@ O site está hospedado no GitHub Pages e pode ser acessado em:
 - CSS3 (sem frameworks)
 - JavaScript vanilla
 - Google Fonts (Montserrat)
-
-## 📱 Contato
-
-- Email: joaobalzer@gmail.com
-- WhatsApp: +55 42 9911-0955
 
 ---
 
